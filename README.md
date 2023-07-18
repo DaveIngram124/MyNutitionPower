@@ -1,4 +1,9 @@
 # MyNutitionPower
+
+##Startup
+- run nodemon app.js in the project folder
+- run mongosh to start mongo
+
 ## Tech Stack
 - Node.js
 - Express.js
@@ -18,6 +23,13 @@
 ### MongoDB notes
 - Installed mongosh (mongo shell command)
 - execute mongosh in a shell and leave it running to keep the db server open
+- Connecting to a DB in the mongo shell:
+- - use my-nutrition-power-db
+  - 
 
 ### Mongoose notes
 - x
+
+## Seeding the DB
+- run /seeds/index.js
+- - the script will delete everything in the db and then add new documents using the array in seedHelpers.js
