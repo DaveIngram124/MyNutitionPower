@@ -1,3 +1,5 @@
+Project folder: C:\Users\Dave\My Apps\My Nutrition Power
+
 # MyNutitionPower
 
 ##Startup
