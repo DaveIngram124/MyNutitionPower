@@ -4,7 +4,8 @@ Project folder: C:\Users\Dave\My Apps\My Nutrition Power
 
 ##Startup
 - run nodemon app.js in the project folder
-- run mongosh to start mongo
+- open localhost:3000 to view the app
+- (if needed) run mongosh to start mongo
 
 ## Tech Stack
 - Node.js
